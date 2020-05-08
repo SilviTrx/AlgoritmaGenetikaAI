@@ -1,0 +1,1 @@
+# AlgoritmaGenetikaAI
